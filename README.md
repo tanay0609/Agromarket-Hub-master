@@ -30,6 +30,10 @@ Agromarket Hub is a web-based platform designed to facilitate efficient and seam
 
 ![Image](https://github.com/user-attachments/assets/0c810145-0ca2-44df-b741-bedc14ac1896)
 
+![Image](https://github.com/user-attachments/assets/b222392b-f4c5-4408-ab71-8ed99f41592f)
+
+![Image](https://github.com/user-attachments/assets/7ea3477b-c0cb-407f-b1f0-7872a2f5cde4)
+
 ![Image](https://github.com/user-attachments/assets/375b653e-d3e2-45f8-af3f-0c7ea92d3d47)
 
 ![Image](https://github.com/user-attachments/assets/baa2ab16-875b-4d34-b12a-dd6f3ccf9fba)
