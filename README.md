@@ -20,4 +20,6 @@ Agromarket Hub is a web-based platform designed to facilitate efficient and seam
 - **Authentication**: JWT (JSON Web Tokens)
 - **API Development & Testing**: RESTful APIs, Postman
 
+![Image](https://github.com/user-attachments/assets/b88b668f-a21d-4cd9-964f-e84e22255730)
 
+![Image](https://github.com/user-attachments/assets/fa4e99a9-4454-4d15-a8dc-64f79aea4738)
